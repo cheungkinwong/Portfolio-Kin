@@ -33,9 +33,9 @@ export default {
   z-index: 5;
   background: linear-gradient(
     202.83deg,
-    #78e9ce 1.61%,
-    rgba(123, 151, 223, 0.90535) 59.64%,
-    rgba(128, 0, 255, 0.73) 118.72%
+    #78e9ce,
+    rgb(123, 151, 223),
+    rgb(128, 0, 255)
   );
 }
 </style>

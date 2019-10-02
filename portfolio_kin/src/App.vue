@@ -41,13 +41,13 @@ body {
 }
 #app {
   font-family: "Montserrat", sans-serif;
-  text-align: center;
+  text-align: justify;
   color: #2c3e50;
   background: white;
 }
 .avatar {
   border: 0.5rem solid white;
-  border-radius: 2rem;
+  border-radius: 1rem;
   transform: rotate(45deg);
   text-align: center;
   width: 6rem;
@@ -56,6 +56,7 @@ body {
   transition: all 300ms ease-in-out;
 }
 .gradient-title {
+  text-align: center;
   background: linear-gradient(
     202.83deg,
     #78e9ce 1.61%,
@@ -83,7 +84,7 @@ body {
     rgba(123, 151, 223, 0.90535) 59.64%,
     rgba(128, 0, 255, 0.73) 118.72%
   );
-  border-radius: 2rem;
+  border-radius: 1rem;
   color: white;
   box-shadow: 2px 2px 8px rgba(128, 0, 255, 0.73);
   display: flex;
@@ -132,7 +133,10 @@ a:link {
     flex-flow: nowrap;
   }
   .portfolio-card {
-    height: 40vh;
+    height: 45vh;
+  }
+  .home-card {
+    padding: 1rem 15rem;
   }
 }
 </style>

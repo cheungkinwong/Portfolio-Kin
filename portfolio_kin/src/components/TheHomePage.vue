@@ -4,7 +4,7 @@
       <img src="../assets/avatar.jpg" alt="avatar" class="avatar" />
       <h1>Hi! I'm Cheung Kin Wong</h1>
       <p>
-        I’m a Junior Web Developer at BeCode Antwerp. This portfolio website is a personal project made using Vue.JS because I wanted to learn more about it.
+        I’m a Junior Web Developer at BeCode Antwerp. This portfolio website is a personal project made using Vue.JS, because I wanted to learn more about it.
         I love to be challenged, learning new things and I'm passionate about my projects. Thanks for visiting my portfolio and see you around.
       </p>
     </div>
@@ -35,7 +35,7 @@ export default {
     rgba(123, 151, 223, 0.90535) 59.64%,
     rgba(128, 0, 255, 0.73) 118.72%
   );
-  border-radius: 2rem;
+  border-radius: 1rem;
   margin: 4rem 1rem 0rem 1rem;
   align-content: stretch;
   color: white;
@@ -84,6 +84,11 @@ p {
     width: 12rem;
     height: 12rem;
     margin: 2rem;
+  }
+}
+@media screen and (min-width: 1000px) and (orientation: landscape) {
+  .home-card {
+    padding: 1rem 15rem;
   }
 }
 </style>
