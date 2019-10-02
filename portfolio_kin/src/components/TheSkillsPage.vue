@@ -1,5 +1,5 @@
 <template>
-  <div  id="skills">
+  <div id="skills">
     <h1 class="gradient-title">Skills</h1>
     <div class="portfolio-container">
       <div class="portfolio-card">
@@ -32,18 +32,18 @@
           <li>Illustrator</li>
           <li>InDesign</li>
           <li>Figma</li>
-          <li>Docker</li>
+          <li>Photopea</li>
         </ul>
       </div>
       <div class="portfolio-card">
         <i class="fas fa-2x fa-globe-asia"></i>
         <h2>Language</h2>
         <ul>
-          <li>Cantonese: mother tongue</li>
-          <li>Dutch: fluent</li>
-          <li>English: fluent</li>
-          <li>French: comprehensive</li>
-          <li>Mandarin: comprehensive</li>
+          <li>Cantonese</li>
+          <li>Dutch</li>
+          <li>English</li>
+          <li>French</li>
+          <li>Mandarin</li>
         </ul>
       </div>
     </div>

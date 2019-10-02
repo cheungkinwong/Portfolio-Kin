@@ -1,9 +1,14 @@
 <template>
   <div class="navbar-container">
-    <NavbarButton href="#home" class="fas fa-2x fa-home" name="home"></NavbarButton>
-    <NavbarButton href="#skills" class="fas fa-2x fa-code" name="Skills"></NavbarButton>
-    <NavbarButton href="#projects" class="fas fa-2x fa-folder-open" name="Projects"></NavbarButton>
-    <NavbarButton href="#contact" class="far fa-2x fa-id-card" name="Contact me"></NavbarButton>
+    <NavbarButton href="#home" class="fas fa-2x fa-home" name="home" title="Home"></NavbarButton>
+    <NavbarButton href="#skills" class="fas fa-2x fa-code" name="Skills" title="Skills"></NavbarButton>
+    <NavbarButton
+      href="#projects"
+      class="fas fa-2x fa-folder-open"
+      name="Projects"
+      title="Projects"
+    ></NavbarButton>
+    <NavbarButton href="#info" class="far fa-2x fa-id-card" name="info" title="info"></NavbarButton>
   </div>
 </template>
 

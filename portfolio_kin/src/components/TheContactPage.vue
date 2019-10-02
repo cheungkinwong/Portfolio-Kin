@@ -1,6 +1,6 @@
 <template>
-  <div id="contact">
-    <h1 class="gradient-title">Contact</h1>
+  <div id="info">
+    <h1 class="gradient-title">Info</h1>
 
     <div class="home-card">
       <i class="fas fa-2x fa-user-circle"></i>
@@ -24,6 +24,7 @@
           <li>AP hogeschool: Chemistry</li>
           <li>VDAB: Prepress</li>
           <li>BeCode: Junior Web Developer</li>
+          <li>Drivers License: B</li>
         </ul>
       </div>
       <div class="portfolio-card">
@@ -37,18 +38,25 @@
       </div>
       <div class="portfolio-card">
         <i class="fas fa-2x fa-info-circle"></i>
-        <h2>info</h2>
+        <h2>contact</h2>
         <ul>
-          <li>Born: 28/12/1983 Vilvoorde</li>
-          <li>Adress: Grote Markt 50, Antwerp</li>
-          <li>Drivers License: B</li>
-          <a href="mailto:cheungkin.wong@gmail.com">
+          <li>Grote Markt 50, Antwerp</li>
+          <li>+32 (0) 485 47 41 48</li>
+          <a href="mailto:cheungkin.wong@gmail.com" title="cheungkin.wong@gmail.com">
             <i class="fas fa-2x fa-envelope"></i>
           </a>
-          <a href="https://www.linkedin.com/in/cheungkin/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/cheungkin/"
+            target="_blank"
+            title="www.linkedin.com/in/cheungkin"
+          >
             <i class="fab fa-2x fa-linkedin"></i>
           </a>
-          <a href="https://github.com/cheungkinwong?tab=repositories" target="_blank">
+          <a
+            href="https://github.com/cheungkinwong?tab=repositories"
+            target="_blank"
+            title="github.com/cheungkinwong"
+          >
             <i class="fab fa-2x fa-github"></i>
           </a>
         </ul>
