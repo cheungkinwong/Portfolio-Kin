@@ -4,8 +4,8 @@
       <img src="../assets/avatar.jpg" alt="avatar" class="avatar" />
       <h1>Hi! I'm Cheung Kin Wong</h1>
       <p>
-        I’m a Junior Web Developer finishing a work study at BeCode Antwerp. This portfolio website was a personal project made using Vue.JS as because I believe Vue.JS is a very interesting framework and wanted to learn more about it.
-        I love new challenges and learning new things, I'm passionate about my projects. Thank you for visiting my portfolio and see you around.
+        I’m a Junior Web Developer at BeCode Antwerp. This portfolio website is a personal project made using Vue.JS because I wanted to learn more about it.
+        I love to be challenged, learning new things and I'm passionate about my projects. Thanks for visiting my portfolio and see you around.
       </p>
     </div>
   </div>
