@@ -83,4 +83,9 @@ p {
     padding: 1rem 5rem;
   }
 }
+@media screen and (min-width: 1400px) and (orientation: landscape) {
+  .home-card {
+    padding: 1rem 15rem;
+  }
+}
 </style>

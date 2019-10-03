@@ -140,4 +140,16 @@ a:link {
     padding: 1rem 5rem;
   }
 }
+@media screen and (min-width: 1400px) and (orientation: landscape) {
+  .portfolio-container {
+    flex-flow: wrap;
+  }
+  .portfolio-card {
+    height: 50vh;
+    width: 20vw;
+  }
+  .home-card {
+    padding: 1rem 15rem;
+  }
+}
 </style>
