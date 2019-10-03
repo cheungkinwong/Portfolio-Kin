@@ -114,17 +114,27 @@ a:link {
 
 @media screen and (min-width: 400px) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 @media screen and (min-width: 600px) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 @media screen and (min-width: 1000px) {
   html {
+    font-size: 20px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  html {
     font-size: 22px;
+  }
+}
+@media screen and (min-width: 1600px) {
+  html {
+    font-size: 24px;
   }
 }
 
