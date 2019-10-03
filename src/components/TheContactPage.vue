@@ -140,7 +140,7 @@ td {
 }
 @media screen and (min-width: 1000px) and (orientation: landscape) {
   .home-card {
-    padding: 1rem 15rem;
+    padding: 1rem 5rem;
   }
 }
 </style>

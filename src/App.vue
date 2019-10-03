@@ -130,13 +130,14 @@ a:link {
 
 @media screen and (min-width: 1000px) and (orientation: landscape) {
   .portfolio-container {
-    flex-flow: nowrap;
+    flex-flow: wrap;
   }
   .portfolio-card {
-    height: 45vh;
+    height: 50vh;
+    width: 40vw;
   }
   .home-card {
-    padding: 1rem 15rem;
+    padding: 1rem 5rem;
   }
 }
 </style>

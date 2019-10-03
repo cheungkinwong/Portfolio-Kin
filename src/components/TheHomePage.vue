@@ -77,18 +77,10 @@ p {
     margin: 2rem;
   }
 }
-@media screen and (min-width: 1000px) {
-  .avatar {
-    border: 1rem solid white;
-    border-radius: 2rem;
-    width: 12rem;
-    height: 12rem;
-    margin: 2rem;
-  }
-}
+
 @media screen and (min-width: 1000px) and (orientation: landscape) {
   .home-card {
-    padding: 1rem 15rem;
+    padding: 1rem 5rem;
   }
 }
 </style>
